@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRE BLACK FRIDAY -40%",
+            "text": "OFFRE SPÉCIAL BLACK FRIDAY -40%",
             "url": ""
           }
         },
@@ -27,11 +27,19 @@
             "text": "PAIEMENT SÉCURISÉS",
             "url": ""
           }
+        },
+        "message_kFaMda": {
+          "type": "message",
+          "settings": {
+            "text": "+3,000 CLIENTES SATISFAITES",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_TN6CXd"
+        "message_TN6CXd",
+        "message_kFaMda"
       ],
       "settings": {
         "enable_sticky": false,

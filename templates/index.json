@@ -363,6 +363,65 @@
         "text_color": ""
       }
     },
+    "multi_column_qVycVy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_nPAQHM": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MT47Lt": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DxNQAE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_nPAQHM",
+        "item_MT47Lt",
+        "item_DxNQAE"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_DDVKjW": {
       "type": "media-with-text",
       "blocks": {
@@ -396,6 +455,32 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "rich_text_4DTWB8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TYiA9A": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 CLIENTS SATISFAITS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TYiA9A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "testimonials_3qaBEA": {
@@ -466,7 +551,9 @@
     "media_with_text_HQiMiy",
     "scrolling_text_LHBbDT",
     "text_with_icons_MDMYqe",
+    "multi_column_qVycVy",
     "media_with_text_DDVKjW",
+    "rich_text_4DTWB8",
     "testimonials_3qaBEA"
   ]
 }

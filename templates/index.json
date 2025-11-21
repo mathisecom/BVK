@@ -154,6 +154,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_XgPyyU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n        <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap;\">\n            \n            <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n                <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"margin-right: 8px; filter: invert(0%);\">\n                <div class=\"productBulletsItemText body\">Séchage rapide et efficace</div>\n            </div>\n            \n            <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n                <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"margin-right: 8px; filter: invert(0%);\">\n                <div class=\"productBulletsItemText body\">Cheveux brillants et sans frisottis</div>\n            </div>\n            \n            <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px;\">\n                <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"margin-right: 8px; filter: invert(0%);\">\n                <div class=\"productBulletsItemText body\">Format léger et Pratique</div>\n            </div>\n            \n            <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n                <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"margin-right: 8px; filter: invert(0%);\">\n                <div class=\"productBulletsItemText body\">Brushing précis et boucles parfaites</div>\n            </div>\n            \n        </div>\n    </div>\n</div>"
+          }
+        },
         "rating_FTfexQ": {
           "type": "rating",
           "disabled": true,
@@ -241,6 +247,7 @@
         "liquid_BchqCW",
         "title_TzaYjP",
         "price_xjq6Qh",
+        "liquid_XgPyyU",
         "rating_FTfexQ",
         "variant_picker_GjEbct",
         "quantity_selector_ikHmzi",

@@ -251,30 +251,119 @@
         "input_text_color": ""
       }
     },
-    "rich_text_EkicG4": {
-      "type": "rich-text",
+    "ss_scrolling_images_4mqFLp": {
+      "type": "ss-scrolling-images",
       "blocks": {
-        "heading_g7nARy": {
-          "type": "heading",
+        "image_Qkq4E7": {
+          "type": "image",
           "settings": {
-            "text": "+3,000 CLIENTS SATISFAITS",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/MFKrMHC-5b.jpg",
+            "url": ""
+          }
+        },
+        "image_XKUXmC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wI7du-s5W.jpg",
+            "url": ""
+          }
+        },
+        "image_Uq8C7H": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ybBO-MCNs.jpg",
+            "url": ""
+          }
+        },
+        "image_RYnhkt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zMv4Bg8B2u.jpg",
+            "url": ""
+          }
+        },
+        "image_BfkeGt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LrBR1IbNn.jpg",
+            "url": ""
+          }
+        },
+        "image_mxbfRn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/t2Edhos-Dh.jpg",
+            "url": ""
+          }
+        },
+        "image_LwRQfk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Je5KNzQMN5.jpg",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "heading_g7nARy"
+        "image_Qkq4E7",
+        "image_XKUXmC",
+        "image_Uq8C7H",
+        "image_RYnhkt",
+        "image_BfkeGt",
+        "image_mxbfRn",
+        "image_LwRQfk"
       ],
-      "name": "Rich text",
+      "name": "SS - Scrolling images",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
+        "heading": "<p><strong>+3,000 CLIENTS SATISFAITS</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 15,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 300,
+        "image_width_mobile": 160,
+        "image_height_desktop": 400,
+        "image_height_mobile": 190,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": false,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
         "background_gradient": "",
-        "text_color": ""
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "media_with_text_HQiMiy": {
@@ -574,7 +663,7 @@
     "slideshow",
     "ss_scrolling_logo_cloud_5_D6y36D",
     "featured_product_Eqa78H",
-    "rich_text_EkicG4",
+    "ss_scrolling_images_4mqFLp",
     "media_with_text_HQiMiy",
     "scrolling_text_LHBbDT",
     "text_with_icons_MDMYqe",

@@ -739,9 +739,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Julie S.",
+            "title": "Super puissant et silencieux !",
+            "content": "<p>Super puissant et silencieux ! Mes cheveux sont brillants et le brushing tient toute la journée. Je l’adore.</p>"
           }
         },
         "testimonial_gAgUXX": {
@@ -751,8 +751,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Léger et facile à manipuler",
+            "content": "<p>Léger et facile à manipuler, même pour mes boucles. Le diffuseur est parfait, je gagne un temps fou !</p>"
           }
         },
         "testimonial_UXT6yG": {
@@ -762,15 +762,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Très bon sèche-cheveux",
+            "content": "<p>Très bon sèche-cheveux, respecte vraiment les cheveux. La couleur rose est aussi super jolie dans ma salle de bain !</p>"
+          }
+        },
+        "testimonial_RrFR7y": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Oriane K.",
+            "title": "Séchage rapide et précis",
+            "content": "<p>Séchage rapide et précis. Les embouts magnétiques sont pratiques et le résultat est digne d’un salon.</p>"
+          }
+        },
+        "testimonial_Kprhty": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Olivia G.",
+            "title": "Je recommande à 100 % !",
+            "content": "<p>Puissant mais silencieux, je peux coiffer mes enfants sans les déranger. Je recommande à 100 % !</p>"
           }
         }
       },
       "block_order": [
         "testimonial_UqCy4C",
         "testimonial_gAgUXX",
-        "testimonial_UXT6yG"
+        "testimonial_UXT6yG",
+        "testimonial_RrFR7y",
+        "testimonial_Kprhty"
       ],
       "name": "Testimonials",
       "settings": {

@@ -622,6 +622,42 @@
         "spacing": "none"
       }
     },
+    "media_with_text_REDA6d": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9ifNfq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ontwerp-zonder-titel-18.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 120,
+            "subheading": "",
+            "title": "Protégez vos cheveux de la chaleur",
+            "content": "<p>L’utilisation régulière de la chaleur fragilise vos cheveux et les rend cassants. Avec MagisHAIR, grâce à la technologie ionique avancée et à l’effet Coanda, vos cheveux sont protégés et choyés à chaque coiffage.</p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "#shopify-section-template--25081525436745__featured_product_Eqa78H",
+            "background": "#121212",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "image_9ifNfq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "ss_scrolling_images_deC8p6": {
       "type": "ss-scrolling-images",
       "blocks": {
@@ -832,6 +868,7 @@
     "text_with_icons_MDMYqe",
     "multi_column_qVycVy",
     "media_with_text_DDVKjW",
+    "media_with_text_REDA6d",
     "ss_scrolling_images_deC8p6",
     "testimonials_3qaBEA"
   ]

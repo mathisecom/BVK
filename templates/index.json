@@ -497,6 +497,7 @@
         "item_MT47Lt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_94.jpg",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -509,6 +510,7 @@
         "item_DxNQAE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Titre_95.jpg",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",

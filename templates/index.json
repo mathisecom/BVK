@@ -399,6 +399,7 @@
         "image_wMPW7T": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Titre_-_2025-11-21T145318.411.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",

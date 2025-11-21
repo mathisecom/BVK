@@ -218,6 +218,16 @@
             "content": "<p>Pour les commandes passées, vous disposez de 14 jours (à compter de la date de réception de l'article) pour changer d'avis.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_XJ4Yig": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Caractéristiques",
+            "content": "<ul><li><strong>Puissance</strong> : 1200 W</li><li><strong>Vitesse du flux d'air</strong> : 23 m/s (mesurée à 2,5 cm de la sortie)</li><li><strong>Températures réglables</strong> : 60°C, 80°C, 100°C</li><li><strong>Mode air froid</strong> : activation instantanée par simple pression</li><li><strong>Débit d'air</strong> : 84 m³/h</li><li><strong>Vitesse moteur</strong> : 24 000 tr/min</li><li><strong>Type de moteur</strong> : BLDC (basse consommation, faible bruit)</li><li><strong>Affichage LED</strong> : indication claire et intuitive des réglages</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -232,7 +242,8 @@
         "liquid_KrHGKt",
         "liquid_8qeCcE",
         "collapsible_text_rfLqbz",
-        "collapsible_text_gjUTJz"
+        "collapsible_text_gjUTJz",
+        "collapsible_text_XJ4Yig"
       ],
       "name": "Featured product",
       "settings": {

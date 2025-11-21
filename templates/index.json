@@ -572,30 +572,119 @@
         "spacing": "none"
       }
     },
-    "rich_text_4DTWB8": {
-      "type": "rich-text",
+    "ss_scrolling_images_deC8p6": {
+      "type": "ss-scrolling-images",
       "blocks": {
-        "heading_TYiA9A": {
-          "type": "heading",
+        "image_gtbHzD": {
+          "type": "image",
           "settings": {
-            "text": "+3,000 CLIENTS SATISFAITS",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/MFKrMHC-5b.jpg",
+            "url": ""
+          }
+        },
+        "image_rM3dab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wI7du-s5W.jpg",
+            "url": ""
+          }
+        },
+        "image_M3XBeD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ybBO-MCNs.jpg",
+            "url": ""
+          }
+        },
+        "image_zr8QcF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zMv4Bg8B2u.jpg",
+            "url": ""
+          }
+        },
+        "image_denhzL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LrBR1IbNn.jpg",
+            "url": ""
+          }
+        },
+        "image_PhHdLd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/t2Edhos-Dh.jpg",
+            "url": ""
+          }
+        },
+        "image_rHtRzU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Je5KNzQMN5.jpg",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "heading_TYiA9A"
+        "image_gtbHzD",
+        "image_rM3dab",
+        "image_M3XBeD",
+        "image_zr8QcF",
+        "image_denhzL",
+        "image_PhHdLd",
+        "image_rHtRzU"
       ],
-      "name": "Rich text",
+      "name": "SS - Scrolling images",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
+        "heading": "<p><strong>+3,000 CLIENTS SATISFAITS</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 22,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 300,
+        "image_width_mobile": 160,
+        "image_height_desktop": 400,
+        "image_height_mobile": 190,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": false,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
         "background_gradient": "",
-        "text_color": ""
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "testimonials_3qaBEA": {
@@ -669,7 +758,7 @@
     "text_with_icons_MDMYqe",
     "multi_column_qVycVy",
     "media_with_text_DDVKjW",
-    "rich_text_4DTWB8",
+    "ss_scrolling_images_deC8p6",
     "testimonials_3qaBEA"
   ]
 }
